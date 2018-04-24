@@ -1,6 +1,6 @@
 //var fs = require('fs');
 
-console.log('this is loaded');
+console.log('keys_loaded');
 
 exports.twitter = {
   consumer_key: process.env.TWITTER_CONSUMER_KEY,
