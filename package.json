@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/fgibson94/Liri-Node-App#readme",
   "dependencies": {
-    "dotenv": "^5.0.1"
+    "dotenv": "^5.0.1",
+    "request": "^2.85.0",
+    "twitter": "^1.7.1"
   }
 }
