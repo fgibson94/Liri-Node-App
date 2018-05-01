@@ -18,6 +18,11 @@ if (commandType === "movie-this") {
 } 
 if (commandType === "do-what-it-says") {
     ask.doWhatItSays();
+
+
+    
 }  else {
+
+    console.log("Refer to Readme for help")
     
 }
