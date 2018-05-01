@@ -1,6 +1,5 @@
 //var fs = require('fs');
 
-console.log('keys_loaded');
 
 exports.twitter = {
   consumer_key: process.env.TWITTER_CONSUMER_KEY,
@@ -14,7 +13,3 @@ exports.spotify = {
   secret: process.env.SPOTIFY_SECRET
 };
 
-// module.exports = {
-//     exports.twitter,
-//     exports.spotify,
-// }
